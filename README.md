@@ -1,12 +1,9 @@
 ## Jordan Pratt
 
-Risk and insurance background at Marsh McLennan.
+Full stack engineer and insurance brokerage operations professional building production Python systems to automate workflows at Marsh.
 
-Underwriting and market making rhyme. Both price an uncertain future payout, collect a
-spread for warehousing the risk, and live or die on whether the edge survives the
-variance. Most of what I build is an attempt to make that edge legible: take a market
-that quotes a number, work out what the number implies, and find where two markets
-disagree.
+I manage end to end client renewals across a wide range of industries at the largest commercial insurance brokerage in the world. This industry is ripe for automation: each year the same tasks need to be performed at roughly the same time. Within my Marsh workflow, I have taken several process that used to take upwards of 30 minutes, and condensed them to 1-2 minute processes. With the rise of agentic SWE tools such as Claude Code, Codex, Cursor, etc., I believe the best person to build these automations out is no longer a dev that is several steps removed from the workflow, but rather the person who actually does the "thing".
+
 
 ### Projects
 
