@@ -1,7 +1,6 @@
 ## Jordan Pratt
 
-Chicago. Risk and insurance background at Marsh McLennan, moving into prop trading and
-market making.
+Risk and insurance background at Marsh McLennan.
 
 Underwriting and market making rhyme. Both price an uncertain future payout, collect a
 spread for warehousing the risk, and live or die on whether the edge survives the
