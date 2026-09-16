@@ -7,12 +7,15 @@ I manage end to end client renewals at the largest commercial insurance brokerag
 
 ### Projects
 
-**[Options-MM-Minigame](https://github.com/jpratt3/Options-MM-Minigame)**: Options
-market-taking simulator. Black–Scholes pricing with closed-form Greeks, an implied-vol
-surface with strike smile and term structure, and four bot market makers quoting against
-you. Scores edge capture and decision quality separately from P&L - you can have a lucky, profitable
-session with bad quoting.
-<br>`JavaScript` · `Black–Scholes` · `zero dependencies`
+**[Chief of Staff](https://github.com/jpratt3/chief-of-staff)**: Renewal-operations
+workspace for a commercial insurance book. A renewal is a 270 day project that repeats every
+year, per client, per line. The status usually lives in a spreadsheet that went
+stale two days ago or a team members overcrowded head. This derives each account's stage using a mix of evidence & 
+self-report. It then attaches tools to the document work: read a stack of binders and draft
+one loss run request per carrier against a 235 mailbox routing map, reconcile fifteen
+binders of premium, commission, taxes and fees against the total each binder prints on
+its own face, and roll last year's strategy deck forward. 
+<br>`Python` · `Flask` · `pdfplumber` · `python-pptx` · `Outlook COM`
 
 **[ESPNvsVegas-ADP](https://github.com/jpratt3/ESPNvsVegas-ADP)**: Prices fantasy
 football players off sportsbook lines instead of arbitrary app rankings. Pulls season-long props
@@ -28,6 +31,13 @@ load-bearing and tested, recurring-charge detection from 12 months of history, i
 transfer and card-payment netting, and a spending review queue that compounds regretted
 purchases forward.
 <br>`Node` · `Express` · `SQLite` · `CI on 3 Node versions`
+
+**[Options-MM-Minigame](https://github.com/jpratt3/Options-MM-Minigame)**: Options
+market-taking simulator. Black–Scholes pricing with closed-form Greeks, an implied-vol
+surface with strike smile and term structure, and four bot market makers quoting against
+you. Scores edge capture and decision quality separately from P&L - you can have a lucky, profitable
+session with bad quoting.
+<br>`JavaScript` · `Black–Scholes` · `zero dependencies`
 
 ### Stack
 
