@@ -4,6 +4,7 @@ Full stack engineer and insurance brokerage operations professional building pro
 
 I manage end to end client renewals at the largest commercial insurance brokerage in the world. This industry is ripe for automation: each year the same tasks need to be performed at roughly the same time. Within my Marsh workflow, I am able to complete manual tasks that used to take upwards of half an hour in seconds or minutes. With the rise of agentic SWE tools such as Claude Code, Codex, Cursor, etc., I believe the best person to build these automations out is no longer a dev that is several steps removed from the workflow, but rather the person who actually does the "thing".
 
+The Chief of Staff platform below is that argument in practice: it automates my own renewal desk. Every design decision in it came from having been the one doing the task.
 
 ### Projects
 
