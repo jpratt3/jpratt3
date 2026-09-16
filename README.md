@@ -2,7 +2,7 @@
 
 Full stack engineer and insurance brokerage operations professional building production Python systems to automate workflows at Marsh.
 
-I manage end to end client renewals across a wide range of industries at the largest commercial insurance brokerage in the world. This industry is ripe for automation: each year the same tasks need to be performed at roughly the same time. Within my Marsh workflow, I have taken several process that used to take upwards of 30 minutes, and condensed them to 1-2 minute processes. With the rise of agentic SWE tools such as Claude Code, Codex, Cursor, etc., I believe the best person to build these automations out is no longer a dev that is several steps removed from the workflow, but rather the person who actually does the "thing".
+I manage end to end client renewals at the largest commercial insurance brokerage in the world. This industry is ripe for automation: each year the same tasks need to be performed at roughly the same time. Within my Marsh workflow, I am able to complete manual tasks that used to take upwards of half an hour in seconds or minutes. With the rise of agentic SWE tools such as Claude Code, Codex, Cursor, etc., I believe the best person to build these automations out is no longer a dev that is several steps removed from the workflow, but rather the person who actually does the "thing".
 
 
 ### Projects
