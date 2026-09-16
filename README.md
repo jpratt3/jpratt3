@@ -41,4 +41,4 @@ session with bad quoting.
 
 ### Stack
 
-`Python` `JavaScript` `SQLite` `FastAPI` `Express` `pandas` `NumPy`
+`Python` `TypeScript` `JavaScript` `Flask` `FastAPI` `Next.js` `Express` `SQLite` `pandas` `pdfplumber`
